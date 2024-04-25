@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\mian.scss"],"names":[],"mappings":"AAAA;EAEI;EACA;EACA","file":"main.fb6bbcaf.css","sourceRoot":"..\\src","sourcesContent":["body\r\n{\r\n    background-color:rgb(138, 85, 85);\r\n    color:rgb(250, 250, 250);\r\n    text-align: center;\r\n\r\n}\r\n"]}
